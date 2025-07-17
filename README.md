@@ -10,9 +10,9 @@
 
 <div align="center">
  
-🔭 I’m currently working as a **Front Web Developer and Web Designer**
+🔭 I’m currently working as a **Web3 Enginering and Fullstack Developer**
 
-🌱 I’m currently learning **React Js, Tailwind Css, Next.Js**
+🌱 I’m currently learning **Solidity, Nextjs, Flutter, Foundry, Golang, Express JS, Nodejs**
 
  </div>
  
